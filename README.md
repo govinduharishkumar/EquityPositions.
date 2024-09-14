@@ -11,6 +11,7 @@ This is a web application for managing equity positions based on transaction dat
 - [Running the Application](#running-the-application)
 - [Contributing](#contributing)
 - [License](#license)
+- [License](#Asserts)
 
 ## Features
 
@@ -62,3 +63,7 @@ Cancel a transaction by its ID.
 Position Calculation API
 GET /api/positions
 Retrieve current positions based on processed transactions.
+
+
+## Asserts
+Asserts folder contails he screenshot related to database creation , table creation and insert/update scenarios showned with select statement.
