@@ -11,7 +11,7 @@ This is a web application for managing equity positions based on transaction dat
 - [Running the Application](#running-the-application)
 - [Contributing](#contributing)
 - [License](#license)
-- [License](#Asserts)
+- [Asserts](#Asserts)
 
 ## Features
 
